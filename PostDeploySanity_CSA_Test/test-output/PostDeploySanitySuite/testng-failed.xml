@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [PostDeploySanitySuite]">
+  <test name="PostDeploySanityTest">
+    <classes>
+      <class name="sanityTestMain_US.CreateRequest_US"/>
+      <class name="sanityTestMain_GB.CreateRequest_GB"/>
+      <class name="sanityTestMain_IN.CreateRequest_IN"/>
+    </classes>
+  </test> <!-- PostDeploySanityTest -->
+</suite> <!-- Failed suite [PostDeploySanitySuite] -->
